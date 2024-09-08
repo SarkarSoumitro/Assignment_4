@@ -1,6 +1,7 @@
 # shopping_cart
 
-A new Flutter project.
+Shopping Cart.
+<img width="413" alt="cart" src="https://github.com/user-attachments/assets/cc8cd8d0-7165-47c3-8885-07a33e4b2001">
 
 ## Getting Started
 
